@@ -1,6 +1,6 @@
 # NVIDIA Jetson Orin AGX (the proper setup)
 
-> I wrote this page because setting up the Jetson Orin AGX is a pain in the a**. Mostly to have the proper packages for CUDA, and using GPU with Deep Learning Frameworks such as PyTorch and TensorFlow.
+> I wrote this page because setting up the Jetson Orin AGX is a pain in the a**. Mostly to have the proper packages for CUDA, and using GPU with Deep Learning Frameworks such as PyTorch and TensorFlow.You can find more details in my [Medium Blog post](https://medium.com/@marinachau/nvidia-jetson-orin-agx-the-proper-setup-2cbe61712153).
 
 ## Flash the proper way
 
